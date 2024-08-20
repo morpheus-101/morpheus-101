@@ -11,11 +11,11 @@ Brief introduction about yourself and your expertise in NLP and Machine Learning
 
 ---
 
-## 🔗 Profiles
+## 📚 Publications
 
-- 🖥️ Personal Website: [Rishikesh's website](https://www.yourwebsite.com)
-- 📚 Blog: [Medium](https://medium.com/@rishikesh_d)
-
+- 📚 Blogs: [Medium](https://medium.com/@rishikesh_d)
+  - Graph neural networks for multiple object tracking: [Graph neural networks for multiple object tracking](https://medium.com/@rishikesh_d/graph-neural-networks-for-multiple-object-tracking-ec32f280a945)
+  - Neural machine translation: [](https://medium.com/@rishikesh_d/neural-machine-translation-a-comprehensive-guide-ef414e79b49)
 ---
 
 ## 🤖 NLP Projects
