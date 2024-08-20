@@ -72,4 +72,3 @@ Brief introduction about yourself and your expertise in NLP and Machine Learning
 - Frameworks: TensorFlow, PyTorch, React, Vue.js, Android SDK
 - Tools: Git, Docker, AWS, Firebase, MongoDB
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
