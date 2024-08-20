@@ -30,7 +30,11 @@ Brief introduction about yourself and your expertise in NLP and Machine Learning
 
 ## 🛠️ ML Engineering Projects
 
-- [Recommendation System](https://github.com/yourusername/recsys) - Designed and deployed a scalable recommendation system using collaborative filtering.
+- [Hate speech and Toxicity detection](https://github.com/yourusername/recsys) - Designed and deployed a production grade ML pipeline for a text classification project.
+  - Part 1: [Data collection and versioning]()
+  - Part 2: [Distributed data processing]()
+  - Part 3: [Distributed model training and evaluation]()
+  - Part 4: [Deployment and web app]()
 - [Computer Vision Pipeline](https://github.com/yourusername/cv-pipeline) - Built an end-to-end computer vision pipeline for object detection in real-time video streams.
 - [Fraud Detection Service](https://github.com/yourusername/fraud-detection) - Developed a fraud detection service using anomaly detection techniques and deployed it on AWS.
 
