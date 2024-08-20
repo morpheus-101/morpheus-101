@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Rishikesh
 
 Brief introduction about yourself and your expertise in NLP and Machine Learning.
 
@@ -6,17 +6,15 @@ Brief introduction about yourself and your expertise in NLP and Machine Learning
 
 ## 📫 Reach me at
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@YourTwitter](https://twitter.com/yourprofile)
+- 📧 Email: rishikeshdhayarkar1091@example.com
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rishikeshdhayarkar/)
 
 ---
 
 ## 🔗 Profiles
 
 - 🖥️ Personal Website: [yourwebsite.com](https://www.yourwebsite.com)
-- 📚 Google Scholar: [Your Scholar Profile](https://scholar.google.com/citations?user=yourid)
-- 🧠 Kaggle: [Your Kaggle Profile](https://www.kaggle.com/yourusername)
+- 📚 Medium: [Your Scholar Profile](https://medium.com/@rishikesh_d)
 
 ---
 
