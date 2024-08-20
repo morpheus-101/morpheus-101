@@ -7,15 +7,17 @@ Brief introduction about yourself and your expertise in NLP and Machine Learning
 ## 📫 Reach me at
 
 - 📧 Email: rishikeshdhayarkar1091@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rishikeshdhayarkar/)
+- 💼 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/rishikeshdhayarkar/)
 
 ---
 
 ## 📚 Publications
 
 - 📚 Blogs: [Medium](https://medium.com/@rishikesh_d)
-  - Graph neural networks for multiple object tracking: [Graph neural networks for multiple object tracking](https://medium.com/@rishikesh_d/graph-neural-networks-for-multiple-object-tracking-ec32f280a945)
-  - Neural machine translation: [](https://medium.com/@rishikesh_d/neural-machine-translation-a-comprehensive-guide-ef414e79b49)
+  - [Graph neural networks for multiple object tracking](https://medium.com/@rishikesh_d/graph-neural-networks-for-multiple-object-tracking-ec32f280a945)
+  - [Neural machine translation](https://medium.com/@rishikesh_d/neural-machine-translation-a-comprehensive-guide-ef414e79b49)
+- Publications
+  - GPR paper - 
 ---
 
 ## 🤖 NLP Projects
