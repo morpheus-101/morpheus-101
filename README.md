@@ -13,8 +13,8 @@ Brief introduction about yourself and your expertise in NLP and Machine Learning
 
 ## 🔗 Profiles
 
-- 🖥️ Personal Website: [yourwebsite.com](https://www.yourwebsite.com)
-- 📚 Medium: [Your Scholar Profile](https://medium.com/@rishikesh_d)
+- 🖥️ Personal Website: [Rishikesh's website](https://www.yourwebsite.com)
+- 📚 Blog: [Medium](https://medium.com/@rishikesh_d)
 
 ---
 
@@ -42,6 +42,22 @@ Brief introduction about yourself and your expertise in NLP and Machine Learning
 
 ---
 
+## 🌐 Web Development Projects
+
+- [E-commerce Platform](https://github.com/yourusername/ecommerce-platform) - Built a full-stack e-commerce website using React, Node.js, and MongoDB.
+- [Task Management App](https://github.com/yourusername/task-manager) - Developed a responsive task management web app with Vue.js and Firebase.
+- [Portfolio Website](https://github.com/yourusername/portfolio) - Designed and implemented a personal portfolio website using HTML5, CSS3, and JavaScript.
+
+---
+
+## 📱 Android App Development Projects
+
+- [Fitness Tracker](https://github.com/yourusername/fitness-app) - Created an Android app for tracking workouts and nutrition using Kotlin and Android Jetpack.
+- [Weather App](https://github.com/yourusername/weather-app) - Developed a weather forecasting app integrating with OpenWeatherMap API and implementing Material Design.
+- [Chat Application](https://github.com/yourusername/chat-app) - Built a real-time chat application using Firebase Realtime Database and Android SDK.
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 First place in [XYZ Hackathon 2023](https://hackathon-xyz.com)
@@ -49,5 +65,11 @@ Brief introduction about yourself and your expertise in NLP and Machine Learning
 - 🎖️ Dean's List for Academic Excellence (2021-2022)
 
 ---
+
+## 🛠️ Skills
+
+- Languages: Python, Java, JavaScript, Kotlin, SQL
+- Frameworks: TensorFlow, PyTorch, React, Vue.js, Android SDK
+- Tools: Git, Docker, AWS, Firebase, MongoDB
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
