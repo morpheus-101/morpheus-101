@@ -6,8 +6,20 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - 📧 Email: rishikeshdhayarkar1091@example.com
 - 💼 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/rishikeshdhayarkar/)
 
+## Table of Contents
+- [ML Engineering Projects](#ml-engineering-projects)
+- [Master's Projects and Course Work](#masters-projects-and-course-work)
+  - [Projects](#projects)
+  - [Courses](#courses)
+- [Other Data Science Projects](#other-data-science-projects)
+- [Publications](#publications)
+- [Tech Stack](#tech-stack)
+  - [Programming Languages](#programming-languages)
+  - [MLOps and Development Tools](#mlops-and-development-tools)
+  - [ML Frameworks and Tools](#ml-frameworks-and-tools)
+  - [Analytics](#analytics)
 
-## 🤖 ML Engineering Projects
+## ML Engineering Projects
 
 ### [Hate speech and Toxicity detection](https://github.com/morpheus-101/cybulde-data)
 - Developed MLOps pipeline for hate speech and toxicity detection, using Docker, Dask, and PyTorch Lightning
@@ -31,9 +43,9 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - Established CI/CD with CircleCI, Tox for testing, and Gemfury for package distribution
 
 
-## 🎓 Master's Projects and Course Work
+## Master's Projects and Course Work
 
-### 🚀 Projects
+### Projects
 
 ### [Email Spam Filter](https://github.com/morpheus-101/ECE-GY-9163-ML-for-Cyber-Security/blob/main/A1/rbd291_ML_sec_A1.ipynb)
 - Engineered Naive-Bayes text classifier for spam detection, achieving 100% precision and 96% recall
@@ -60,7 +72,7 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - Created interactive dashboard using Looker, revealing invalid fares, duplicates, and missing GPS data
 
 
-### 📚 Courses
+### Courses
 - Machine Learning
 - Deep Learning
 - Big Data
@@ -71,7 +83,7 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - Computer Architecture
 - Network Security
 
-## 📊 Other Data Science Projects
+## Other Data Science Projects
 
 ### [A/B Testing: Free-Trial Screener](https://github.com/morpheus-101/AB-testing/blob/main/Udacity_ab-converted.pdf)
 - Conducted experiment to optimize online course sign-up process with pre-enrollment questionnaire
@@ -97,7 +109,7 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 
 
 
-## 📚 Publications
+## Publications
   - [Graph neural networks for multiple object tracking](https://medium.com/@rishikesh_d/graph-neural-networks-for-multiple-object-tracking-ec32f280a945)
   - [Neural machine translation](https://medium.com/@rishikesh_d/neural-machine-translation-a-comprehensive-guide-ef414e79b49)
 - [Multifeature Based Landmine Detection Using Ground Penetration Radar](https://github.com/morpheus-101/GPR-project/blob/master/rishikesh_conference_paper.pdf)
@@ -107,7 +119,7 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 
 
 
-## 🛠️ Tech stack
+## Tech stack
 #### Programming Languages
   - Python, Java, JavaScript, SQL, HTML, CSS, R
 
