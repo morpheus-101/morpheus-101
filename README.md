@@ -25,7 +25,7 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - Used Neo4j for knowledge graph, Pinecone for vector storage, and LlamaIndex for ReAct agent workflows
 - Enabled rapid fact retrieval and complex entity-relationship mapping for quick podcast assessment
 
-### [House Price Prediction API with MLOps Pipeline](https://github.com/morpheus-101/house-price-prediction)
+### [House Price Prediction API with MLOps Pipeline](https://github.com/morpheus-101/property-price-prediction)
 - Built scalable house price prediction API with FastAPI and custom regression model
 - Implemented MLOps pipeline: packaging, Docker containerization, PaaS/IaaS deployment
 - Established CI/CD with CircleCI, Tox for testing, and Gemfury for package distribution
@@ -34,11 +34,6 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 ## 🎓 Master's Projects and Course Work
 
 ### 🚀 Projects
-
-### [NYC Taxi Dataset Analysis](https://github.com/morpheus-101/CS-GY-6513-Big-Data/tree/main)
-- Performed EDA on 3.6GB NYC Taxi Dataset (2012-2013) using Spark and Hadoop on NYU HPC cluster
-- Identified data quality issues and analyzed fare amount and passenger count distributions
-- Created interactive dashboard using Looker, revealing invalid fares, duplicates, and missing GPS data
 
 ### [Email Spam Filter](https://github.com/morpheus-101/ECE-GY-9163-ML-for-Cyber-Security/blob/main/A1/rbd291_ML_sec_A1.ipynb)
 - Engineered Naive-Bayes text classifier for spam detection, achieving 100% precision and 96% recall
@@ -59,6 +54,11 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - Implemented robust Optical Character Recognition (OCR) system for handwritten text using image processing and deep learning techniques
 - Developed a three-stage pipeline: image pre-processing, line and word segmentation, and text prediction using deep learning models
 
+### [NYC Taxi Dataset Analysis](https://github.com/morpheus-101/CS-GY-6513-Big-Data/tree/main)
+- Performed EDA on 3.6GB NYC Taxi Dataset (2012-2013) using Spark and Hadoop on NYU HPC cluster
+- Identified data quality issues and analyzed fare amount and passenger count distributions
+- Created interactive dashboard using Looker, revealing invalid fares, duplicates, and missing GPS data
+
 
 ### 📚 Courses
 - Machine Learning
@@ -78,22 +78,22 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - Aimed to reduce dropouts and enhance student experience
 - Results showed decreased enrollment without significant improvement in post-trial retention
 
-### [Google PlayStore Reviews Classifier]()
-- Constructed neural network to classify app reviews into positive, negative, and neutral categories
-- Utilized BERT model to convert user reviews into feature vectors
-- Achieved 89.05% accuracy on test set
-
-### [Duke data science capstone - MOOC](https://github.com/morpheus-101/Duke_data_science)
-
 ### [Algorithms from Big data(Stanford course)](https://github.com/morpheus-101/Algorithms-for-Big-Data)
 - Implemented Frequest itemsets algorithms (Apriori, PCY)
 - Local sensitive hashing algorithm for clustering on yelp dataset
 - Recommender system using collaborative filtering
 
+### [Duke data science capstone - MOOC](https://github.com/morpheus-101/Duke_data_science)
+
 ### [Neural Machine Translation]()
 - Developed Spanish to English translation neural network, achieving 22.47 BLEU score
 - Implemented CNN for word embeddings, Bidirectional LSTM encoder, and Unidirectional LSTM decoder with attention
 - Incorporated character-level decoder for out-of-vocabulary word translation
+
+### [Google PlayStore Reviews Classifier]()
+- Constructed neural network to classify app reviews into positive, negative, and neutral categories
+- Utilized BERT model to convert user reviews into feature vectors
+- Achieved 89.05% accuracy on test set
 
 
 
