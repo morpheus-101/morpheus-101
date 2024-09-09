@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishikesh
 
-Experienced Data Scientist/ML Engineer with 4 years of expertise in developing production-grade machine learning solutions([resume]()). Skilled in leveraging both traditional ML techniques and large language models (LLMs) to craft software that addresses complex NLP challenges.
+ML Engineer and Data Scientist with 4 years of expertise in delivering production-grade machine learning solutions. Skilled in leveraging ML paradigms, large language models (LLMs), data & software engineering practices to develop products that solve complex NLP and AI challenges.
 
 📫 Reach me at:
 - 📧 Email: rishikeshdhayarkar1091@example.com
@@ -35,25 +35,30 @@ Experienced Data Scientist/ML Engineer with 4 years of expertise in developing p
 
 ### Projects
 
-### [NYC Taxi Dataset Analysis]()
+### [NYC Taxi Dataset Analysis](https://github.com/morpheus-101/CS-GY-6513-Big-Data/tree/main)
 - Performed EDA on 3.6GB NYC Taxi Dataset (2012-2013) using Spark and Hadoop on NYU HPC cluster
 - Identified data quality issues and analyzed fare amount and passenger count distributions
 - Created interactive dashboard using Looker, revealing invalid fares, duplicates, and missing GPS data
 
-### [Email Spam Filter]()
+### [Email Spam Filter](https://github.com/morpheus-101/ECE-GY-9163-ML-for-Cyber-Security/blob/main/A1/rbd291_ML_sec_A1.ipynb)
 - Engineered Naive-Bayes text classifier for spam detection, achieving 100% precision and 96% recall
 - Processed emails to generate binomial & multinomial features using information gain metric
 - Developed solution to strengthen classifier against 'add-words' adversarial attack
 
-### [Question Answering on SQuAD 2.0 Dataset]()
+### [Question Answering on SQuAD 2.0 Dataset](https://github.com/morpheus-101/CS-GY-9233-Deep-Learning/blob/main/Deep_Learning_project_report.pdf)
 - Implemented NLP algorithm for generating answers based on reading passages
 - Created ensemble of BERT and BiDAF models, achieving 84.06 F1 score
 - Employed synthetic text augmentation using GPT-2 and synonym replacement
 
-### [Back-Door Detection in Facial Recognition Models]()
+### [Back-Door Detection in Facial Recognition Models](https://github.com/morpheus-101/ML-security/blob/main/ML_security_report.pdf)
 - Developed approach to detect back-doors in deep neural networks for facial recognition
 - Method involved perturbing input images and observing entropy in predicted labels
 - Implemented on YouTube Face dataset in collaboration with team of two
+
+### [Optical Character Recognition for handwritten text](https://github.com/morpheus-101/CS-GY-6643-Computer-Vision-Final-Project/blob/main/CV_project_report.pdf)
+- Implemented robust Optical Character Recognition (OCR) system for handwritten text using image processing and deep learning techniques
+- Developed a three-stage pipeline: image pre-processing, line and word segmentation, and text prediction using deep learning models
+
 
 ### Courses
 - Machine Learning
@@ -68,41 +73,41 @@ Experienced Data Scientist/ML Engineer with 4 years of expertise in developing p
 
 ## Other Data Science Projects
 
-### [A/B Testing: Free-Trial Screener]()
+### [A/B Testing: Free-Trial Screener](https://github.com/morpheus-101/AB-testing/blob/main/Udacity_ab-converted.pdf)
 - Conducted experiment to optimize online course sign-up process with pre-enrollment questionnaire
 - Aimed to reduce dropouts and enhance student experience
 - Results showed decreased enrollment without significant improvement in post-trial retention
-
-### [Neural Machine Translation]()
-- Developed Spanish to English translation neural network, achieving 22.47 BLEU score
-- Implemented CNN for word embeddings, Bidirectional LSTM encoder, and Unidirectional LSTM decoder with attention
-- Incorporated character-level decoder for out-of-vocabulary word translation
 
 ### [Google PlayStore Reviews Classifier]()
 - Constructed neural network to classify app reviews into positive, negative, and neutral categories
 - Utilized BERT model to convert user reviews into feature vectors
 - Achieved 89.05% accuracy on test set
 
+### [Duke data science capstone - MOOC](https://github.com/morpheus-101/Duke_data_science)
+
+### [Algorithms from Big data(Stanford course)](https://github.com/morpheus-101/Algorithms-for-Big-Data)
+- Implemented Frequest itemsets algorithms (Apriori, PCY)
+- Local sensitive hashing algorithm for clustering on yelp dataset
+- Recommender system using collaborative filtering
+
+### [Neural Machine Translation]()
+- Developed Spanish to English translation neural network, achieving 22.47 BLEU score
+- Implemented CNN for word embeddings, Bidirectional LSTM encoder, and Unidirectional LSTM decoder with attention
+- Incorporated character-level decoder for out-of-vocabulary word translation
 
 
-## 📚 Blogs
+
+## 📚 Publications
   - [Graph neural networks for multiple object tracking](https://medium.com/@rishikesh_d/graph-neural-networks-for-multiple-object-tracking-ec32f280a945)
   - [Neural machine translation](https://medium.com/@rishikesh_d/neural-machine-translation-a-comprehensive-guide-ef414e79b49)
-- Publications
-  - GPR paper - 
-  - [Ground Penetrating Radar (GPR) for Landmine Detection]()
+- [Multifeature Based Landmine Detection Using Ground Penetration Radar](https://github.com/morpheus-101/GPR-project/blob/master/rishikesh_conference_paper.pdf)
   - Collaborated on landmine detection solution using Ground Penetrating Radar
   - Processed GPR signals to generate images of buried objects
   - Built classification model achieving 84% accuracy using random forests
 
 
 
-
-
-
-
 ## 🛠️ Tech stack
-
 - **Programming Languages**: 
   - Python, Java, JavaScript, SQL, HTML, CSS, R
 
