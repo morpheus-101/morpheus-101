@@ -108,10 +108,10 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 
 
 ## 🛠️ Tech stack
-- **Programming Languages**: 
+#### Programming Languages
   - Python, Java, JavaScript, SQL, HTML, CSS, R
 
-- **MLOps and Development Tools**: 
+#### MLOps and Development Tools
   - Docker, Kubernetes, Git, Github, Weights & Biases, MLFlow
   - CI/CD: CircleCI, GitHub Actions
   - Serving: TorchServe, Flask, FastAPI, Streamlit
@@ -120,13 +120,13 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
   - Databases: Neo4j, Pinecone, MySQL, PostgreSQL, MongoDB, Redis
   - Data versioning and config management: DVC, Hydra-core
 
-- **ML Frameworks and Tools**: 
+#### ML Frameworks and Tools
   - Deep Learning: PyTorch, TensorFlow
   - NLP: HuggingFace, OpenAI API, Gemini API, LlamaIndex, Langchain
   - ML Libraries: Scikit-learn, Pandas, OpenCV, NLTK, NumPy, Gensim
   - Boosting: XGBoost, LightGBM
 
-- **Analytics**: 
+#### Analytics
   - Statistical Methods: Hypothesis Testing, Time-series Analysis
   - Causal Inference: Causal Impact Analysis, A/B Testing
   - Tools: Excel, Statsmodels
