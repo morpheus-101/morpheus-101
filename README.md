@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishikesh
 
-ML Engineer and Data Scientist with 4 years of expertise in delivering production-grade machine learning solutions. Skilled in leveraging ML paradigms, large language models (LLMs), data & software engineering practices to develop products that solve complex NLP and AI challenges.
+ML Engineer and Data Scientist with 4 years of expertise in delivering production-grade machine learning solutions. Skilled in leveraging ML paradigms, large language models (LLMs), data & software engineering practices to develop products that solve complex NLP and AI challenges. [Resume](ML_engg.pdf)
 
 📫 Reach me at:
 - 📧 Email: rishikeshdhayarkar1091@example.com
