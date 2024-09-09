@@ -7,7 +7,7 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - 💼 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/rishikeshdhayarkar/)
 
 
-## 🛠️ ML Engineering Projects
+## 🤖 ML Engineering Projects
 
 ### [Hate speech and Toxicity detection](https://github.com/morpheus-101/cybulde-data)
 - Developed MLOps pipeline for hate speech and toxicity detection, using Docker, Dask, and PyTorch Lightning
@@ -33,7 +33,7 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 
 ## 🎓 Master's Projects and Course Work
 
-### Projects
+### 🚀 Projects
 
 ### [NYC Taxi Dataset Analysis](https://github.com/morpheus-101/CS-GY-6513-Big-Data/tree/main)
 - Performed EDA on 3.6GB NYC Taxi Dataset (2012-2013) using Spark and Hadoop on NYU HPC cluster
@@ -60,7 +60,7 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - Developed a three-stage pipeline: image pre-processing, line and word segmentation, and text prediction using deep learning models
 
 
-### Courses
+### 📚 Courses
 - Machine Learning
 - Deep Learning
 - Big Data
@@ -71,7 +71,7 @@ ML Engineer and Data Scientist with 4 years of expertise in delivering productio
 - Computer Architecture
 - Network Security
 
-## Other Data Science Projects
+## 📊 Other Data Science Projects
 
 ### [A/B Testing: Free-Trial Screener](https://github.com/morpheus-101/AB-testing/blob/main/Udacity_ab-converted.pdf)
 - Conducted experiment to optimize online course sign-up process with pre-enrollment questionnaire
